@@ -2,7 +2,7 @@
 <img width="400px" src="./src/images/logo-white-bg.png">
 </p>
 
-<h1 align="center">Item Sharing Platform</h1>
+<h1 align="center">lendLock</h1>
 
 [![MIT license](https://img.shields.io/badge/License-GPLv3-01004c.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
 [![Version](https://img.shields.io/badge/version-1.0.0-01004c.svg)](https://shields.io/)
@@ -29,13 +29,13 @@ More info about the technologies can be found <a href="https://github.com/mamarm
 
 
 ## Description
-shareit is a full-stack [MERN](https://www.mongodb.com/languages/mern-stack-tutorial) web application that allows you to borrow and lend items within your community. Do you need something for a day? Just ask for it. Do you have something that someone else needs? Just offer it to them.
+LendLock is a full-stack [MERN](https://www.mongodb.com/languages/mern-stack-tutorial) web application that allows you to borrow and lend items within your community. Do you need something for a day? Just ask for it. Do you have something that someone else needs? Just offer it to them.
 
 By buying less you do your part in reducing your ecological foorprint, in line with the first of [the '3 Rs' of waste management (Reduce, Reuse, Recycle)](https://en.wikipedia.org/wiki/Waste_management#Principles_of_waste_management).
 
 <img width="900px" src="./screenshots/homepage.png">
 
-The server-side code can be found [here](https://github.com/mamarmar/shareit-server).
+
 
 ## Technologies Used (Extended)
 
@@ -69,8 +69,5 @@ Some of the features to be implemented in the future are:
 - Allow users to upload their own images (profile picture, offered item images, etc)
 - Include a Google Map with a marker for every offered/requsted item
 
-## Special Thanks To
 
-- [Yasmeen Othman](https://github.com/YasmeenOthman), for her guidance and continuous support throughout this fascinating journey.
-- All the students and the tutors at the [Social Hackers Academy](https://github.com/SocialHackersAcademy), for creating a nice little community of passionate people offering their best for each other.
 
